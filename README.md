@@ -6,8 +6,8 @@ You need to install scapy module in order for it to work
 ```pip install scapy-python3```
 
 ## Installing
-```git clone https://github.com/Saad-20/Mac_Changer.git``` 
-```cd Mac_Changer```
+```git clone https://github.com/Saad-20/Mac_Changer.git```    
+```cd Mac_Changer```    
 ```python mac_changer.py --help``` (For Further help)
 
 ## Running the MAC Changer
