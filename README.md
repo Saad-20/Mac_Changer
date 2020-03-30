@@ -1,4 +1,4 @@
-# Mac_Changer
+# Mac Changer
 To change the MAC address of your network adapter in order to remain anonymous. This would enable the user to put an extra layer of security
 
 ## Prerequisites
