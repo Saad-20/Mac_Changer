@@ -1,5 +1,5 @@
 # Mac Changer
-To change the MAC address of your network adapter in order to remain anonymous. This would enable the user to put an extra layer of security
+The tool allows the user to change the MAC address of their network adapter in order to remain anonymous. This would enable the user to put an extra layer of security by hiding their mac addressing and changing it into something else
 
 ## Prerequisites
 You need to install scapy module in order for it to work   
