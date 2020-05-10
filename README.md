@@ -11,8 +11,7 @@ You need to install scapy module in order for it to work
 ```python mac_changer.py --help``` (For Further help)
 
 ## Running the MAC Changer
-```python mac_changer.py -i {interface name} -m {Enter mac}```
-
+```python mac_changer.py -i {interface name} -m {Enter mac}```    
 e.g: ```python mac_changer.py -i wlan0 -m 00:11:22:33:44:55```
 
 
