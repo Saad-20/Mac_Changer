@@ -5,7 +5,7 @@ The tool allows the user to change the MAC address of their network adapter in o
 You need to install scapy module in order for it to work   
 ```pip install scapy-python3```
 
-## Installing
+## Installation
 ```git clone https://github.com/Saad-20/Mac_Changer.git```    
 ```cd Mac_Changer```    
 ```python mac_changer.py --help``` (For Further help)
